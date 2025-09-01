@@ -35,3 +35,5 @@ Versionado:
 2 es la minor/feature
 
 8 es el fix
+
+## Estamos en release
